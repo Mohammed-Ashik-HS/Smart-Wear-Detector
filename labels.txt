@@ -1,0 +1,7 @@
+abrasive
+adhesive
+corrosion
+erosion
+fatigue
+fretting
+nowear
